@@ -1,0 +1,52 @@
+/* Background color */
+body {
+    background-color: #b8f0e7;
+    font-family: Verdanda, sans-serif;
+    padding: 20px;
+    color: #2e3a3a;
+  }
+  /* Header styles*/
+  .header-section {
+    background-color: #00cfcf;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+   
+  }
+ 
+ 
+ /*List section styling*/
+  .list-section {
+    background-color: #e0ffff;
+    padding: 15px;
+    margin-top: 20px;
+    border-left: 5px solid #00a5a5;
+  }
+   /* Media section styling*/
+  .media-section {
+    margin-top: 20px;
+    background-color: #f0fffa;
+    padding: 20px;
+    border: 2px dashed #008080;
+    text-align: left;
+  }
+   a {
+    color: #007f7f;
+    font-weight: bold;
+  }
+   a:hover {
+    text-decoration: underline;
+  }
+ 
+ 
+  .exclamation {
+    font-weight: lighter;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  }
+ 
+ 
+  h1 {
+    text-decoration: underline;
+  }
+ 
